@@ -1,3 +1,3 @@
-def addition(a, b):
-  result = a+b
+def substraction(a, b):
+  result = a-b
   return result
