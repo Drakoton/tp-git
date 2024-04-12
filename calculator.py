@@ -1,3 +1,3 @@
-def addition(a, b):
-  result = a+b
+def divide(a, b):
+  result = a/b
   return result
